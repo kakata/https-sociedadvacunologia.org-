@@ -1,0 +1,43 @@
+HTTrack3.49-5 launched on Thu, 29 Aug 2024 22:13:20 at sociedadvacunologia.org
+(winhttrack sociedadvacunologia.org -O "/home/kasm-user/websites/vacuna" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:13:21	Warning: 	Moved Permanently for sociedadvacunologia.org/robots.txt
+22:13:21	Warning: 	File has moved from sociedadvacunologia.org/robots.txt to https://emra570.wixsite.com/sdvweb
+22:13:22	Warning: 	Moved Permanently for sociedadvacunologia.org/
+22:13:22	Warning: 	File has moved from sociedadvacunologia.org/ to https://emra570.wixsite.com/sdvweb
+22:13:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/c (from https://emra570.wixsite.com/sdvweb)
+22:13:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/t (from https://emra570.wixsite.com/sdvweb)
+22:13:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/ (from https://emra570.wixsite.com/sdvweb)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sitemap.xml (from https://emra570.wixsite.com/sdvweb)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/feed.xml (from https://emra570.wixsite.com/sdvweb)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/${i.uri} (from https://emra570.wixsite.com/sdvweb)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/decodeURIComponent(e (from https://emra570.wixsite.com/sdvweb)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/c (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/t (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/robots.txt (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/feed.xml (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/${i.uri} (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/decodeURIComponent(e (from https://emra570.wixsite.com/sdvweb/nosotros)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/c (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:33	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/t (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/robots.txt (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/sitemap.xml (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/feed.xml (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/${i.uri} (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/post/decodeURIComponent(e (from https://emra570.wixsite.com/sdvweb/post/cutting-costs-maximizing-results)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/event-details/sitemap.xml (from https://emra570.wixsite.com/sdvweb/event-details/congreso-1)
+22:14:49	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/event-details/feed.xml (from https://emra570.wixsite.com/sdvweb/event-details/congreso-1)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/c (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/t (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/sitemap.xml (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/feed.xml (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/${i.uri} (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+22:14:50	Error: 	"Not Found" (404) at link https://emra570.wixsite.com/sdvweb/inicio/hashtags/decodeURIComponent(e (from https://emra570.wixsite.com/sdvweb/inicio/hashtags/costefficiency)
+
+HTTrack Website Copier/3.49-5 mirror complete in 1 minutes 30 seconds : 54 links scanned, 23 files written (17763133 bytes overall) [5953915 bytes received at 66154 bytes/sec], 25126307 bytes transferred using HTTP compression in 50 files, ratio 23%
+(28 errors, 4 warnings, 0 messages)

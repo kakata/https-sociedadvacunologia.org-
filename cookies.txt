@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+emra570.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1724984002|bpVsz04RJQME
+emra570.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+emra570.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=42_g
+
